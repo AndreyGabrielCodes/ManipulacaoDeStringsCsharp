@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\manipulacaodestringscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|solutionrelative:manipulacaodestringscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|c:\\users\\andrey\\desktop\\projetos\\manipulacaodestringscsharp\\manipulacaodestringscsharp\\verificaanagrama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|solutionrelative:manipulacaodestringscsharp\\verificaanagrama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|c:\\users\\andrey\\desktop\\projetos\\manipulacaodestringscsharp\\manipulacaodestringscsharp\\verificaexistenciapalindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|solutionrelative:manipulacaodestringscsharp\\verificaexistenciapalindromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|c:\\users\\andrey\\desktop\\projetos\\manipulacaodestringscsharp\\manipulacaodestringscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|solutionrelative:manipulacaodestringscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VerificaExistenciaPalindromo.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\VerificaExistenciaPalindromo.cs",
-              "RelativeDocumentMoniker": "ManipulacaoDeStringsCsharp\\VerificaExistenciaPalindromo.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\VerificaExistenciaPalindromo.cs",
-              "RelativeToolTip": "ManipulacaoDeStringsCsharp\\VerificaExistenciaPalindromo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "VerificaAnagrama.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\VerificaAnagrama.cs",
+              "RelativeDocumentMoniker": "ManipulacaoDeStringsCsharp\\VerificaAnagrama.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\VerificaAnagrama.cs",
+              "RelativeToolTip": "ManipulacaoDeStringsCsharp\\VerificaAnagrama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T19:49:56.956Z",
+              "WhenOpened": "2025-02-03T20:00:57.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\Program.cs",
               "RelativeDocumentMoniker": "ManipulacaoDeStringsCsharp\\Program.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\Program.cs",
               "RelativeToolTip": "ManipulacaoDeStringsCsharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T18:54:32.589Z",
               "EditorCaption": ""

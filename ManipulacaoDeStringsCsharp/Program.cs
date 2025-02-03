@@ -32,8 +32,12 @@ namespace ManipulacaoDeStringsCsharp
                 $"{Q3.VerificaExistenciaPalindromo.Verifica(textosQ3[2])}");
 
             //Q4
+            string[] textosQ4 = { "Perda", "Pedra" };
             Console.WriteLine("\nQ4 - Determine se duas strings são anagramas " +
-                "(possuem os mesmos caracteres em ordens diferentes)");
+                "(possuem os mesmos caracteres em ordens diferentes)" +
+                $"\n   - Inputs: {textosQ4[0]} e {textosQ4[1]}");
+            Console.WriteLine("   - Output: " +
+                $"{Q4.VerificaAnagrama.Verifica(textosQ4[0], textosQ4[1])}");
 
             //Q5
             Console.WriteLine("\nQ5 - Valide se a senha inserida atende aos requisitos");
