@@ -1,0 +1,7 @@
+C:\Users\Andrey\Desktop\Projetos\ManipulacaoDeStringsCsharp\ManipulacaoDeStringsCsharp\bin\Debug\ManipulacaoDeStringsCsharp.exe.config
+C:\Users\Andrey\Desktop\Projetos\ManipulacaoDeStringsCsharp\ManipulacaoDeStringsCsharp\bin\Debug\ManipulacaoDeStringsCsharp.exe
+C:\Users\Andrey\Desktop\Projetos\ManipulacaoDeStringsCsharp\ManipulacaoDeStringsCsharp\bin\Debug\ManipulacaoDeStringsCsharp.pdb
+C:\Users\Andrey\Desktop\Projetos\ManipulacaoDeStringsCsharp\ManipulacaoDeStringsCsharp\obj\Debug\ManipulacaoDeStringsCsharp.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Projetos\ManipulacaoDeStringsCsharp\ManipulacaoDeStringsCsharp\obj\Debug\ManipulacaoDeStringsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Projetos\ManipulacaoDeStringsCsharp\ManipulacaoDeStringsCsharp\obj\Debug\ManipulacaoDeStringsCsharp.exe
+C:\Users\Andrey\Desktop\Projetos\ManipulacaoDeStringsCsharp\ManipulacaoDeStringsCsharp\obj\Debug\ManipulacaoDeStringsCsharp.pdb
