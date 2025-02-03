@@ -14,10 +14,13 @@ namespace ManipulacaoDeStringsCsharp
             string textoQ1 = "Eu quero uma pizza";
             Console.WriteLine("Q1 - Conte o número de vogais e consoantes a partir " +
                 $"de uma string\n   - Input: {textoQ1}");
-            Console.WriteLine("   - " + Q1.ContaVogaisEConsoantes.VerificaOcorrencias(textoQ1));
+            Console.WriteLine("   - Output: " + Q1.ContaVogaisEConsoantes.VerificaOcorrencias(textoQ1));
 
             //Q2
-            Console.WriteLine("\nQ2 - Inverta a ordem dos caracteres de uma string");
+            Console.WriteLine("\nQ2 - Inverta a ordem dos caracteres de uma string" +
+                $"de uma string\n   - Input: {textoQ1}");
+            Console.WriteLine("   - Output: \"" + Q2.InverteString.Inverter(textoQ1) + "\"");
+
 
             //Q3
             Console.WriteLine("\nQ3 - Determine se uma string é um palíndromo " +
