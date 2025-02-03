@@ -21,10 +21,15 @@ namespace ManipulacaoDeStringsCsharp
                 $"de uma string\n   - Input: {textoQ1}");
             Console.WriteLine("   - Output: \"" + Q2.InverteString.Inverter(textoQ1) + "\"");
 
-
             //Q3
+            string[] textosQ3 = { "Ovo", "Pizza", "Apos a sopa" };
             Console.WriteLine("\nQ3 - Determine se uma string é um palíndromo " +
-                "(se ela é igual quando lida da direita para esquerda e vice-versa)");
+                "(se ela é igual quando lida da direita para esquerda e vice-versa)" +
+                $"\n   - Inputs: \"{textosQ3[0]}\", \"{textosQ3[1]}\", \"{textosQ3[2]}\" ");
+            Console.WriteLine($"   - Outputs: " +
+                $"{Q3.VerificaExistenciaPalindromo.Verifica(textosQ3[0])}, " +
+                $"{Q3.VerificaExistenciaPalindromo.Verifica(textosQ3[1])}, " +
+                $"{Q3.VerificaExistenciaPalindromo.Verifica(textosQ3[2])}");
 
             //Q4
             Console.WriteLine("\nQ4 - Determine se duas strings são anagramas " +
