@@ -40,8 +40,10 @@ namespace ManipulacaoDeStringsCsharp
                 $"{Q4.VerificaAnagrama.Verifica(textosQ4[0], textosQ4[1])}");
 
             //Q5
-            Console.WriteLine("\nQ5 - Valide se a senha inserida atende aos requisitos");
-
+            string senha = "Djkd1!mas";
+            Console.WriteLine("\nQ5 - Valide se a senha inserida atende aos requisitos" +
+                $"\n   - Input: {senha}");
+            Console.WriteLine($"   - Output: {Q5.Senha.Valida(senha)}");
         }
     }
 }
