@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|c:\\users\\andrey\\desktop\\projetos\\manipulacaodestringscsharp\\manipulacaodestringscsharp\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|solutionrelative:manipulacaodestringscsharp\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\manipulacaodestringscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|solutionrelative:manipulacaodestringscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|c:\\users\\andrey\\desktop\\projetos\\manipulacaodestringscsharp\\manipulacaodestringscsharp\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED0ADE4-087E-4CD7-9963-F88C1982F367}|ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp.csproj|solutionrelative:manipulacaodestringscsharp\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Senha.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\Senha.cs",
               "RelativeDocumentMoniker": "ManipulacaoDeStringsCsharp\\Senha.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\Program.cs",
               "RelativeDocumentMoniker": "ManipulacaoDeStringsCsharp\\Program.cs",
               "ToolTip": "C:\\Users\\Andrey\\Desktop\\Projetos\\ManipulacaoDeStringsCsharp\\ManipulacaoDeStringsCsharp\\Program.cs",
               "RelativeToolTip": "ManipulacaoDeStringsCsharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T18:54:32.589Z",
               "EditorCaption": ""

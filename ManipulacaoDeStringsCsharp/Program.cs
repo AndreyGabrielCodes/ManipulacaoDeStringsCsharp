@@ -44,6 +44,9 @@ namespace ManipulacaoDeStringsCsharp
             Console.WriteLine("\nQ5 - Valide se a senha inserida atende aos requisitos" +
                 $"\n   - Input: {senha}");
             Console.WriteLine($"   - Output: {Q5.Senha.Valida(senha)}");
+
+            //Pausa
+            Console.ReadLine();
         }
     }
 }
