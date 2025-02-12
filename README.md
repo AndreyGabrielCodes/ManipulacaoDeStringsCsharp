@@ -1,3 +1,5 @@
+CONCLUIDO !
+
 Para treinar a manipulação de strings, foram criadas diversas perguntas e o objetivo é tentar respondê-las.
 
 Todas as perguntas são localizadas dentro do mesmo projeto
